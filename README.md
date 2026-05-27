@@ -89,7 +89,7 @@ align= "left"
 alt= "Github Stats"
 heigth= "200"
 style= "padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=Ferlarie&show_icons=true&theme=dracula"
+src="https://github-readme-stats.vercel.app/api?username=ferlarie&show_icons=true&theme=dracula"
 />
 
 <img 
